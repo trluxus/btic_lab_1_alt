@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btic_lab_1_alt", "btic_lab_1_alt.csproj", "{D6E5B8BD-76A8-4BBF-B29E-BD19D2B427F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btic_lab_1_alt_test", "..\btic_lab_1_alt_test\btic_lab_1_alt_test.csproj", "{2F46745D-6667-4ED4-9026-FE0F0DF35C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E5B8BD-76A8-4BBF-B29E-BD19D2B427F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E5B8BD-76A8-4BBF-B29E-BD19D2B427F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E5B8BD-76A8-4BBF-B29E-BD19D2B427F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E5B8BD-76A8-4BBF-B29E-BD19D2B427F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F46745D-6667-4ED4-9026-FE0F0DF35C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F46745D-6667-4ED4-9026-FE0F0DF35C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F46745D-6667-4ED4-9026-FE0F0DF35C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F46745D-6667-4ED4-9026-FE0F0DF35C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84050378-C7DB-455B-9E06-4D21DB7A4FAF}
+	EndGlobalSection
+EndGlobal
